@@ -11,8 +11,8 @@ public class HelloWorld {
 
 
     @RequestMapping(value = "/")
-    public String helloPage(){
+    public String helloPage() {
 
-        return "Hello Pubudu" ;
+        return "Hello I am pubudu jayasanka gamage";
     }
 }
