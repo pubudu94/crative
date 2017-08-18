@@ -13,6 +13,6 @@ public class HelloWorld {
     @RequestMapping(value = "/")
     public String helloPage() {
 
-        return "Hello I am pubudu jayasanka gamage";
+        return "Hello I am Pubudu";
     }
 }
